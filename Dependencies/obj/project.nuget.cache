@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fJbRnWFUa7GhVp+sJvN0Q7aCZ/XpjJqHXMC94aydIAbXq30xTEiTJxrU3L/3z0LLCquJXzm26dtsTtx0OWpF2w==",
+  "dgSpecHash": "fvoVAML79ETtTFRqGehXXVXy+dbCn5a91b5/MR2GLeRgvS152zU9iHvLcH9HrUfQPd4sAzWNh9+c2ZwJjjtkwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Dependencies\\Dependencies.csproj",
+  "projectFilePath": "D:\\current work\\.net-6-\\Dependencies\\Dependencies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sonic\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0-rc.1.21452.15\\microsoft.aspnetcore.jsonpatch.6.0.0-rc.1.21452.15.nupkg.sha512",
     "C:\\Users\\Sonic\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.0-rc.1.21452.15\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.0-rc.1.21452.15.nupkg.sha512",

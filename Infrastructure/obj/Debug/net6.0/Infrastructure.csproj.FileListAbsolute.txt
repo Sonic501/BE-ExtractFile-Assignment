@@ -43,3 +43,27 @@ C:\Users\Sonic\Source\Repos\.net-6-\Infrastructure\obj\Debug\net6.0\Infrastructu
 C:\Users\Sonic\Source\Repos\.net-6-\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
 C:\Users\Sonic\Source\Repos\.net-6-\Infrastructure\bin\Debug\net6.0\Dependencies.dll
 C:\Users\Sonic\Source\Repos\.net-6-\Infrastructure\bin\Debug\net6.0\Dependencies.pdb
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Application.dll
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Common.dll
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Data.dll
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Dependencies.dll
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Application.pdb
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Data.pdb
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Common.pdb
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Dependencies.pdb
+D:\current work\.net-6-\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\Infrastructure.sourcelink.json
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\current work\.net-6-\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

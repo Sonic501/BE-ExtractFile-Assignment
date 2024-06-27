@@ -9314,11 +9314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\current work\\.net-6-\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\current work\\.net-6-\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Sonic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Infrastructure\\obj\\",
+      "outputPath": "D:\\current work\\.net-6-\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sonic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9335,11 +9335,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Application\\Application.csproj"
+            "D:\\current work\\.net-6-\\Application\\Application.csproj": {
+              "projectPath": "D:\\current work\\.net-6-\\Application\\Application.csproj"
             },
-            "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Data\\Data.csproj"
+            "D:\\current work\\.net-6-\\Data\\Data.csproj": {
+              "projectPath": "D:\\current work\\.net-6-\\Data\\Data.csproj"
             }
           }
         }

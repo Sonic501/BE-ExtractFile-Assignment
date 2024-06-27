@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IH2mancilGP40yIR1NA6WFCydz+v2WLg00mEOeSIkG9vJ1IlmcMOvsfiKDUAkxv7T/gy5xz/6bgIKjT/1IKVBg==",
+  "dgSpecHash": "B4KY98T7K7P1iQr69nzs22QTO89jYI8uNARqdh/GBrcRs7NSieTJ62j3Ar1shmomBlhKL78C+WbaaSX1QBRGxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Data\\Data.csproj",
+  "projectFilePath": "D:\\current work\\.net-6-\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sonic\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Sonic\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

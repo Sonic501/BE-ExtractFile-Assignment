@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Dependencies\\Dependencies.csproj": {}
+    "D:\\current work\\.net-6-\\Dependencies\\Dependencies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Dependencies\\Dependencies.csproj": {
+    "D:\\current work\\.net-6-\\Dependencies\\Dependencies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Dependencies\\Dependencies.csproj",
+        "projectUniqueName": "D:\\current work\\.net-6-\\Dependencies\\Dependencies.csproj",
         "projectName": "Dependencies",
-        "projectPath": "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Dependencies\\Dependencies.csproj",
+        "projectPath": "D:\\current work\\.net-6-\\Dependencies\\Dependencies.csproj",
         "packagesPath": "C:\\Users\\Sonic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sonic\\Source\\Repos\\.net-6-\\Dependencies\\obj\\",
+        "outputPath": "D:\\current work\\.net-6-\\Dependencies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sonic\\AppData\\Roaming\\NuGet\\NuGet.Config",

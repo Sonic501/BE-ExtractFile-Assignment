@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rrkprNWKT3Tzd8meM3EKRzs199KwH9ofYyn0XEZLHIBTAEMUU9NXc6bzXPPUqx1bZ2CIFaOR1wq+DFFHymLzfg==",
+  "dgSpecHash": "vwh2FhZYuFOmt7F6IPYnuKvKjLScHp6yoLZmS+bTHjvxyUVrMFh0Z3GRPmkmqncmrDRteC/Elkc6CtP5AJacwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sonic\\source\\repos\\.net-6-\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\current work\\.net-6-\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sonic\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Sonic\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

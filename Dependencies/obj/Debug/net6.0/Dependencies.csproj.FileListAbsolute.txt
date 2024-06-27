@@ -11,3 +11,16 @@ C:\Users\Sonic\Source\Repos\.net-6-\Dependencies\obj\Debug\net6.0\refint\Depende
 C:\Users\Sonic\Source\Repos\.net-6-\Dependencies\obj\Debug\net6.0\Dependencies.pdb
 C:\Users\Sonic\Source\Repos\.net-6-\Dependencies\obj\Debug\net6.0\ref\Dependencies.dll
 C:\Users\Sonic\Source\Repos\.net-6-\Dependencies\obj\Debug\net6.0\Dependencies.csproj.AssemblyReference.cache
+D:\current work\.net-6-\Dependencies\bin\Debug\net6.0\Dependencies.deps.json
+D:\current work\.net-6-\Dependencies\bin\Debug\net6.0\Dependencies.dll
+D:\current work\.net-6-\Dependencies\bin\Debug\net6.0\Dependencies.pdb
+D:\current work\.net-6-\Dependencies\obj\Debug\net6.0\Dependencies.csproj.AssemblyReference.cache
+D:\current work\.net-6-\Dependencies\obj\Debug\net6.0\Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+D:\current work\.net-6-\Dependencies\obj\Debug\net6.0\Dependencies.AssemblyInfoInputs.cache
+D:\current work\.net-6-\Dependencies\obj\Debug\net6.0\Dependencies.AssemblyInfo.cs
+D:\current work\.net-6-\Dependencies\obj\Debug\net6.0\Dependencies.csproj.CoreCompileInputs.cache
+D:\current work\.net-6-\Dependencies\obj\Debug\net6.0\Dependencies.sourcelink.json
+D:\current work\.net-6-\Dependencies\obj\Debug\net6.0\Dependencies.dll
+D:\current work\.net-6-\Dependencies\obj\Debug\net6.0\refint\Dependencies.dll
+D:\current work\.net-6-\Dependencies\obj\Debug\net6.0\Dependencies.pdb
+D:\current work\.net-6-\Dependencies\obj\Debug\net6.0\ref\Dependencies.dll
